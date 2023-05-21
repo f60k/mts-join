@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MTSJoin' target in the 'MTSJoin' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
